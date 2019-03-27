@@ -1,0 +1,1 @@
+export let constantVal='3.14';
